@@ -1,0 +1,22 @@
+.DS_Store
+node_modules
+.next
+out
+.env
+.env*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.mov
+.trae
+petci-main/**
+!petci-main/
+!petci-main/LICENSE
+!petci-main/README.md
+!petci-main/data/
+!petci-main/data/json/
+!petci-main/data/json/filtered.json
+
+# Local toolchain used only for this workspace.
+.local-node
